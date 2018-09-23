@@ -3,6 +3,7 @@
 
 ## 项目效果预览
 扫描二维码：
+
 ![](https://img-1257191344.cos.ap-chengdu.myqcloud.com/%E6%97%85%E6%B8%B8%E7%BD%91%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
 
 ## 具体项目源码
